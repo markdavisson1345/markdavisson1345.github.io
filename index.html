@@ -29,7 +29,15 @@
 
         p {
             color: #555;
-            margin-bottom: 30px;
+            margin-bottom: 20px;
+        }
+
+        .button-group {
+            display: flex;
+            flex-direction: column;
+            gap: 10px; /* Space between buttons */
+            margin-top: 20px;
+            align-items: center;
         }
 
         button {
@@ -42,6 +50,7 @@
             border-radius: 8px;
             cursor: pointer;
             transition: background-color 0.3s ease;
+            width: 300px; /* Consistent button width */
         }
 
         button:hover {
@@ -52,15 +61,17 @@
 <body>
     <div class="container">
         <h1>Welcome to Mr. Davisson's Page</h1>
-        <p>Explore my latest project by clicking the button below:</p>
-        <button onclick="window.location.href='https://markdavisson1345.github.io/myapp/';">
-            Go to My Testing App via sub folder
-        </button>
-    </div>
-        <div class="container">
-        <button onclick="window.location.href='https://markdavisson1345.github.io/myappRepo/';">
-            Go to My Testing App via link to project within other repo
-        </button>
+        <p>Explore my latest projects by clicking the buttons below:</p>
+        
+        <!-- Button Group for Vertical Layout -->
+        <div class="button-group">
+            <button onclick="window.location.href='https://markdavisson1345.github.io/myapp/';">
+                Go to My Testing App via sub folder
+            </button>
+            <button onclick="window.location.href='https://markdavisson1345.github.io/myappRepo/';">
+                Go to My Testing App via link to project within other repo
+            </button>
+        </div>
     </div>
 </body>
 </html>
