@@ -1,77 +1,24 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Welcome to Mr. Davisson's GitHub Page</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-        }
+---
+layout: default
+title: Welcome
+---
 
-        .container {
-            text-align: center;
-            background-color: #ffffff;
-            padding: 30px;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        }
+# Welcome to Mr. Davisson's Page
 
-        h1 {
-            color: #333;
-            margin-bottom: 20px;
-        }
+Explore my latest projects by clicking the buttons below:
 
-        p {
-            color: #555;
-            margin-bottom: 20px;
-        }
+<div style="display:flex; flex-direction:column; align-items:center; gap:10px; margin-top:20px;">
 
-        .button-group {
-            display: flex;
-            flex-direction: column;
-            gap: 10px; /* Space between buttons */
-            margin-top: 20px;
-            align-items: center;
-        }
+<a href="https://markdavisson1345.github.io/myapp/" style="text-decoration:none;">
+  <button style="padding:12px 24px; font-size:18px; font-weight:bold; background-color:#007bff; color:white; border:none; border-radius:8px; cursor:pointer; width:300px;">
+    Go to My Testing App via sub folder
+  </button>
+</a>
 
-        button {
-            padding: 12px 24px;
-            font-size: 18px;
-            font-weight: bold;
-            background-color: #007bff;
-            color: #fff;
-            border: none;
-            border-radius: 8px;
-            cursor: pointer;
-            transition: background-color 0.3s ease;
-            width: 300px; /* Consistent button width */
-        }
+<a href="https://markdavisson1345.github.io/myappRepo/" style="text-decoration:none;">
+  <button style="padding:12px 24px; font-size:18px; font-weight:bold; background-color:#007bff; color:white; border:none; border-radius:8px; cursor:pointer; width:300px;">
+    Go to My Testing App via link to project within other repo
+  </button>
+</a>
 
-        button:hover {
-            background-color: #0056b3;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>Welcome to Mr. Davisson's Page</h1>
-        <p>Explore my latest projects by clicking the buttons below:</p>
-        
-        <!-- Button Group for Vertical Layout -->
-        <div class="button-group">
-            <button onclick="window.location.href='https://markdavisson1345.github.io/myapp/';">
-                Go to My Testing App via sub folder
-            </button>
-            <button onclick="window.location.href='https://markdavisson1345.github.io/myappRepo/';">
-                Go to My Testing App via link to project within other repo
-            </button>
-        </div>
-    </div>
-</body>
-</html>
+</div>
