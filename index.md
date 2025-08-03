@@ -1,24 +1,33 @@
 ---
 layout: default
-title: Welcome
+title: Mr. Davisson's Portfolio
 ---
 
-# Welcome to Mr. Davisson's Page
+# 🧠 Welcome to Our Software & Game Dev Portfolio
 
-Explore my latest projects by clicking the buttons below:
+This is where we showcase the incredible work being built in Mr. Davisson’s class — from mobile apps to full-scale games. Everything you see here was built by high school students using professional tools.
 
-<div style="display:flex; flex-direction:column; align-items:center; gap:10px; margin-top:20px;">
+---
 
-<a href="https://markdavisson1345.github.io/myapp/" style="text-decoration:none;">
-  <button style="padding:12px 24px; font-size:18px; font-weight:bold; background-color:#007bff; color:white; border:none; border-radius:8px; cursor:pointer; width:300px;">
-    Go to My Testing App via sub folder
-  </button>
+## 🌟 Featured Student Flutter App: MindMend
+
+MindMend is a mental wellness app created by students using Flutter. It’s cross-platform, sleek, and built with real-world development tools.
+
+<a href="https://markdavisson1345.github.io/myapp/" target="_blank" style="display:inline-block;background-color:#00cc66;color:#fff;padding:12px 24px;border-radius:8px;text-decoration:none;font-weight:bold;margin-top:15px;">
+🚀 Launch MindMend App
 </a>
 
-<a href="https://markdavisson1345.github.io/myappRepo/" style="text-decoration:none;">
-  <button style="padding:12px 24px; font-size:18px; font-weight:bold; background-color:#007bff; color:white; border:none; border-radius:8px; cursor:pointer; width:300px;">
-    Go to My Testing App via link to project within other repo
-  </button>
-</a>
+---
 
-</div>
+## 🎮 What You'll Build This Year
+
+You’ll learn to work like a real development team while building:
+
+- Mobile & Web Apps with Flutter and Firebase  
+- Escape Room games in Unreal Engine  
+- Story-driven games with art, code, and interaction  
+- Apps that solve real community problems
+
+---
+
+Ready to get started? Let’s build something amazing together. 🚀
