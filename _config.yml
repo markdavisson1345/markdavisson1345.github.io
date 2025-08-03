@@ -1,5 +1,5 @@
-title: Josiah Davisson's Portfolio
-description: A personal portfolio powered by GitHub Pages.
+title: Mr. Davisson's Portfolio
+description: A showcase of the work we do in class, including apps, games, and more!
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
