@@ -13,7 +13,7 @@ This is where we showcase the incredible work being built in Mr. Davisson’s cl
 
 MindMend is a mental wellness app created by students using Flutter. It’s cross-platform, sleek, and built with real-world development tools.
 
-<a href="https://markdavisson1345.github.io/myapp/" target="_blank" style="display:inline-block;background-color:#00cc66;color:#fff;padding:12px 24px;border-radius:8px;text-decoration:none;font-weight:bold;margin-top:15px;">
+<a href="https://blakeprogramming.github.io/MindMend2/" target="_blank" style="display:inline-block;background-color:#00cc66;color:#fff;padding:12px 24px;border-radius:8px;text-decoration:none;font-weight:bold;margin-top:15px;">
 🚀 Launch MindMend App
 </a>
 
