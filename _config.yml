@@ -1,5 +1,5 @@
 title: Mr. Davisson's Portfolio
 description: A showcase of the work we do in class, including apps, games, and more!
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: williamcanin/typing-jekyll-template
 plugins:
   - jekyll-remote-theme
