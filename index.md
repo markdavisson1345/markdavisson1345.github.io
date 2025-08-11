@@ -16,11 +16,11 @@ MindMend is a mental wellness app created by students using Flutter. It’s cros
 <a href="https://blakeprogramming.github.io/MindMend2/" target="_blank" style="display:inline-block;background-color:#00cc66;color:#fff;padding:12px 24px;border-radius:8px;text-decoration:none;font-weight:bold;margin-top:15px;">
 🚀 Launch MindMend App
 </a>
-
+<br>
 <a href="https://sastharam.github.io/ChefsKiss/" target="_blank" style="display:inline-block;background-color:#00cc66;color:#fff;padding:12px 24px;border-radius:8px;text-decoration:none;font-weight:bold;margin-top:15px;">
 🚀 Launch Cheffs Kiss App
 </a>
-
+<br>
 <a href="https://jonahlee9.github.io/Winged-Words/" target="_blank" style="display:inline-block;background-color:#00cc66;color:#fff;padding:12px 24px;border-radius:8px;text-decoration:none;font-weight:bold;margin-top:15px;">
 🚀 Launch Winged-Words App
 </a>
